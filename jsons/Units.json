@@ -8,9 +8,9 @@
 		"requiredTech": "The Wheel",
 		"requiredResource": "Dogs",
 		"upgradesTo": "Guard Dogs",
-		"obsoleteTech": "Industrialization"
+		"obsoleteTech": "Industrialization",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "nonmetalhit",
 	},
   {
 		"name": "Guard Dogs",
@@ -23,7 +23,7 @@
 		"upgradesTo": "Robo Dogs",
 		"obsoleteTech": "Electronics",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "nonmetalhit",
 	},
 {
 		"name": "Robo Dogs",
@@ -34,6 +34,6 @@
 		"requiredTech": "Electronics",
 		"requiredResource": "Dogs",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "nonmetalhit",
 	},
   ]
