@@ -1,0 +1,11 @@
+[
+{
+		"name": "Dogs",
+		"resourceType": ""Strategic",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Forest","Tundra","Flood plains","Desert"],
+		"food": 1,
+    "production": 1
+		"improvement": "Pasture",
+		"improvementStats": {"production": 1}
+	},
+  ]
