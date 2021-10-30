@@ -1,0 +1,39 @@
+[
+{
+		"name": "War Dogs",
+		"unitType": "Scout",
+		"movement": 5,
+		"strength": 15,
+		"cost": 5,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Dogs",
+		"upgradesTo": "Guard Dogs",
+		"obsoleteTech": "Industrialization"
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+		"attackSound": "nonmetalhit"
+	},
+  {
+		"name": "Guard Dogs",
+		"unitType": "Scout",
+		"movement": 5,
+		"strength": 75,
+		"cost": 15,
+		"requiredTech": "Industrialization",
+		"requiredResource": "Dogs",
+		"upgradesTo": "Robo Dogs",
+		"obsoleteTech": "Electronics",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Robo Dogs",
+		"unitType": "Scout",
+		"movement": 5,
+		"strength": 75,
+		"cost": 25,
+		"requiredTech": "Electronics",
+		"requiredResource": "Dogs",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+		"attackSound": "nonmetalhit"
+	},
+  ]
