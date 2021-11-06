@@ -1,28 +1,29 @@
 [
 {
-		"name": "Domestication of dogs",
-		"isNationalWonder": true,
-		"production": 2,
-		"science": 1,
-		"gold": 1,
-		"culture": 1,
+        "name": "Domestication of dogs",
+        "isNationalWonder": true,
+        "production": 2,
+        "science": 1,
+        "gold": 1,
+        "culture": 1,
                 "food": 5,
-		"cityStrength": 3,
+        "cost": 10,
+        "cityStrength": 3
 },
 {
-		"name": "Dog racing",
-		"requiredResource": ["Dogs"],
-		"hurryCostModifier": 25,
+        "name": "Dog racing",
+        "requiredNearbyImprovedResources": ["Dogs"],
+        "hurryCostModifier": 25,
                 "gold": 15,
-                "uniques": ["[+1 Gold] per [2] population [in this city]"],
-		"requiredTech": "Animal Husbandry",
+                "uniques": ["+1 Gold for every 2 population [in this city]"],
+        "requiredTech": "Animal Husbandry"
 },
 {
-		"name": "Meat Factory",
-		"requiredResource": ["Dogs"],
-		"hurryCostModifier": 25,
+        "name": "Meat Factory",
+        "requiredNearbyImprovedResources": ["Dogs"],
+        "hurryCostModifier": 25,
                 "Food": 15,
-                "uniques": ["[+1 Food] per [2] population [in this city]"],
-		"requiredTech": "Refrigeration",
-}
+                "uniques": ["+1 Food for every 2 population [in this city]"],
+        "requiredTech": "Refrigeration"
+},
 ]
