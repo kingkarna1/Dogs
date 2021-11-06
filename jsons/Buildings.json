@@ -6,7 +6,7 @@
         "science": 1,
         "gold": 1,
         "culture": 1,
-                "food": 5,
+        "food": 5,
         "cost": 10,
         "cityStrength": 3
 },
@@ -14,16 +14,16 @@
         "name": "Dog racing",
         "requiredNearbyImprovedResources": ["Dogs"],
         "hurryCostModifier": 25,
-                "gold": 15,
-                "uniques": ["+1 Gold for every 2 population [in this city]"],
+        "gold": 15,
+        "uniques": ["+1 Gold for every 2 population [in this city]"],
         "requiredTech": "Animal Husbandry"
 },
 {
         "name": "Meat Factory",
         "requiredNearbyImprovedResources": ["Dogs"],
         "hurryCostModifier": 25,
-                "Food": 15,
-                "uniques": ["+1 Food for every 2 population [in this city]"],
+        "Food": 15,
+        "uniques": ["+1 Food for every 2 population [in this city]"],
         "requiredTech": "Refrigeration"
 },
 ]
