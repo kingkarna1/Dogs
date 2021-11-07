@@ -1,6 +1,6 @@
 [
 {
-        "name": "Domestication of dogs",
+        "name": "Domestication of Dogs",
         "isNationalWonder": true,
         "production": 2,
         "science": 1,
@@ -13,14 +13,14 @@
         "cityStrength": 3
 },
 {
-        "name": "Dog racing",
+        "name": "Dog Racing",
         "hurryCostModifier": 25,
         "gold": 15,
         "uniques": ["+1 Gold for every 2 population [in this city]", "Consumes [1] [Dogs]"],
         "requiredTech": "Animal Husbandry"
 },
 {
-        "name": "Meat Factory",
+        "name": "Dog Meat Factory",
         "hurryCostModifier": 25,
         "Food": 15,
         "uniques": ["+1 Food for every 2 population [in this city]", "Consumes [1] [Dogs]"],
