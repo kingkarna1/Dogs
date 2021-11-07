@@ -3,7 +3,7 @@
 		"name": "War Dogs",
 		"unitType": "Scout",
 		"movement": 5,
-		"strength": 15,
+		"strength": 3,
 		"cost": 5,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Dogs",
