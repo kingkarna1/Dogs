@@ -26,4 +26,11 @@
         "uniques": ["+1 Food for every 2 population [in this city]", "Consumes [1] [Dogs]"],
         "requiredTech": "Refrigeration"
 },
+{
+        "name": "Kennel",
+        "hurryCostModifier": 100,
+        "Food": 2,
+        "uniques": ["Provides [3] [Dogs]"],
+        "requiredTech": "Future Tech"
+},
 ]
