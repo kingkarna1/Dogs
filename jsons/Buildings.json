@@ -16,20 +16,20 @@
         "name": "Dog Racing",
         "hurryCostModifier": 25,
         "gold": 15,
-        "uniques": ["+1 Gold for every 2 population [in this city]", "Consumes [1] [Dogs]"],
+        "uniques": ["[+1 Gold] for every [2] population [in this city]", "Consumes [1] [Dogs]"],
         "requiredTech": "Animal Husbandry"
 },
 {
         "name": "Dog Meat Factory",
         "hurryCostModifier": 25,
-        "Food": 15,
-        "uniques": ["+1 Food for every 2 population [in this city]", "Consumes [1] [Dogs]"],
+        "food": 15,
+        "uniques": ["[+1 Food] for every [2] population [in this city]", "Consumes [1] [Dogs]"],
         "requiredTech": "Refrigeration"
 },
 {
         "name": "Kennel",
         "hurryCostModifier": 100,
-        "Food": 2,
+        "food": 2,
         "uniques": ["Provides [3] [Dogs]"],
         "requiredTech": "Future Tech"
 },
